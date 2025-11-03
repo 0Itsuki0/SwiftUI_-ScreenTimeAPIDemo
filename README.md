@@ -9,6 +9,6 @@ Specifically, this demo includes the following:
 4. Implement Custom Shield Actions
 
 
-For more details, please refer to my blog [SwiftUI: Monitor/Restrict Device Activity. Our Own device or family devices]()
+For more details, please refer to my blog [SwiftUI: Monitor/Restrict Device Activity. Our Own device or family devices](https://medium.com/@itsuki.enjoy/swiftui-monitor-restrict-device-activity-our-own-device-or-family-devices-a6d2f9fe254a)
 
 ![](./demo.gif)
